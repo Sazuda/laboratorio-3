@@ -4,6 +4,8 @@ let menu = 0;
 
 let resultado;
 
+console.log("bienvenido")
+
 function realizarOperacion(){
     console.log("Elija una operacion a realizar:");
     console.log("1. Suma");
